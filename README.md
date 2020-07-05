@@ -1,6 +1,7 @@
 # Cellular-Automata
-Visualization of Elementary Cellular Automaton to observe various rules. My top design patterns are as follows:
 Ref: https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+Visualization of Elementary Cellular Automaton to observe various rules. My top design patterns are as follows:
+
 ## Rule 181
 ![181](https://user-images.githubusercontent.com/54534189/86540445-f517ea80-bf22-11ea-844d-5fc10cd20702.JPG)
 
